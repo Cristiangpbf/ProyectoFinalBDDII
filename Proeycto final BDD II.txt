@@ -1,0 +1,58 @@
+
+	PROYECTO FINAL
+Ponderación: nota del examen 2do bimestre 
+Lenguaje: a elegir por el estudiante
+Motor de base de datos: Debe usar dos bases de datos en su sistema, una para el login y la otra para el sistema, podrán usar cualquier BDD.
+
+Fecha de entrega: 7 de febrero de 2020
+TSI414 Base de Datos II
+ Indicaciones generales:
+
+(x) 1. Diseñar e implementar una base de datos para el formulario asignado.  
+(x) 2. Las indicaciones son válidas para todos los formularios planteados.
+() 3. Diseñar e implementar un sistema para ingresar información.
+() 4. Al menos 10 validaciones a nivel de basededatos.
+() 5. Al menos 10 validaciones a nivel de aplicación.
+() 6. Es necesario crear usuarios para control de acceso
+() 7. Se debe crear una tabla de auditoría,la cual será alimentada a través de disparadores
+() 8. Implementar el ingreso de información al formulario y una vista para mostrar la información almacenada 
+	de los formularios. El usuario creador del formulario podrá editarlo hasta tner una versión final.
+() 9. Crear perfiles de usuario.
+
+
+
+Entregables:
+1. Un informe con el nombre: informeProyecto_apellido_nombre (pdf o docx) que contenga: 
+	documentación del diseño de la base de datos, documentación del desarrollo de la aplicación. Para el desarrollo de la 
+	aplicación indicar la sección en la que se hace la conexión a la base de datos.
+2. Script de la base de datos:baseProyecto_apellido_nombre.sql
+3. Código fuente de la aplicación.
+4. Instalador de la aplicación (ítem obligatorio)
+5. Defensa
+
+Todos los entregables deben estar en github y en la carpeta de evaluaciones únicamente poner el link.
+
+
+Formularios del SRI
+201620837  102A + 106
+201410738  102A + 104
+201620885  102A + 103
+201710163  102A + 106	
+201520808  102A + 104
+201421045  102A + 107
+	201620962  102A + 106
+201520946  102A + 104
+201710056  102A + 103
+201720156  102A + 106
+201620863  102A + 104
+201521059  102A + 107
+201511957  102A + 106
+201710046  102A + 104
+201511959  102A + 103
+201710086  102A + 106
+201621038  102A + 104
+201410413  102A + 107
+201720112  102A + 106
+201710063  102A + 104
+
+*Pueden trabajar máximo entre dos pero el total de formularios por grupo debe ser 3.

@@ -1,0 +1,9 @@
+sqlserver
+server: ProyectoBDD.mssql.somee.com
+usuario: Cristiangpbf_SQLLogin_1
+pass: qepsm3n91w
+
+postgreSQL
+server: rajje.db.elephantsql.com
+user: rbhcchli
+pass: hNfMy507K3dGerBGkgVWptX08lrW27t8
